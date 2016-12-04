@@ -32,7 +32,7 @@
 #include <stdint.h>
 #include <CoreFoundation/CoreFoundation.h>
 #include "dotMacXmlRpc.h"
-#include <CoreServices/../Frameworks/CarbonCore.framework/Headers/MacErrors.h>
+#include <MacErrors.h>
 #include <Security/cssmapple.h>
 
 /* Dump XMLRPC Result dictionary */

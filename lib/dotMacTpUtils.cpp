@@ -33,7 +33,7 @@
 #include "dotMacTp.h"
 #include "dotMacTpAsn1Templates.h"
 #include <security_asn1/SecNssCoder.h>
-#include <CoreServices/../Frameworks/CarbonCore.framework/Headers/MacErrors.h>
+#include <MacErrors.h>
 #include <security_cdsa_utils/cuPem.h>
 #include <CoreFoundation/CoreFoundation.h>
 #include <CoreServices/CoreServices.h>

@@ -35,7 +35,7 @@
 #include <security_asn1/SecNssCoder.h>
 #include <Security/oidsalg.h>
 #include <security_cdsa_utils/cuPem.h>
-#include <CoreServices/../Frameworks/CarbonCore.framework/Headers/MacErrors.h>
+#include <MacErrors.h>
 
 void AppleDotMacTPSession::RetrieveCredResult(
 	const CssmData &ReferenceIdentifier,

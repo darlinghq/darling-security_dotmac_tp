@@ -30,7 +30,7 @@
 //#include <CoreServices/../Frameworks/CFNetwork.framework/Headers/CFHTTPMessage.h>
 #include <CFNetwork/CFHTTPMessage.h>
 #include <CoreServices/../Frameworks/OSServices.framework/Headers/WSMethodInvocation.h>
-#include <CoreServices/../Frameworks/CarbonCore.framework/Headers/MacErrors.h>
+#include <MacErrors.h>
 
 #include <stdio.h>
 #include "dotMacXmlRpc.h"
